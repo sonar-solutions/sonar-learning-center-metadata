@@ -1,0 +1,368 @@
+# Sonar Learn — Courses
+
+> Public catalog of Sonar courses available on sonarsource.com/learn.
+
+## [Administering quality gates in SonarQube](https://www.sonarsource.com/learn/course/core-concepts/a0f784bb-0722-4c97-ac5f-9e250686014b/administering-quality-gates-in-sonarqube)
+Summary: This course explains how SonarQube quality gates help define your organization's coding and security standards, empowering teams to set and maintain consistent practices across all projects. You'll learn how to tailor these standards using custom quality gates to ensure consistent and secure code throughout your development work.
+Topics: Definition and purpose of SonarQube quality gates; The built-in *Sonar way* quality gate; Permissions required for quality gate administration; Methods for creating custom quality gates; Adding and modifying quality gate conditions; Best practices for managing quality gates
+Tags: Onboarding, Beginner, Video
+
+## [Administering quality profiles in SonarQube](https://www.sonarsource.com/learn/course/core-concepts/99c287ee-6671-471d-b6ff-4ec88be61383/administering-quality-profiles-in-sonarqube)
+Summary: This course explains how SonarQube quality profiles determine your organization's coding and security standards, empowering teams to set and maintain consistent practices across all projects. You'll learn how to tailor these standards using custom quality profiles to ensure reliable and secure code throughout your development work.
+Topics: Definition and purpose of SonarQube quality profiles; The built-in *Sonar way* quality profile; Permissions required for quality profile administration; Methods for creating custom quality profiles; Customizing an active rules list; Associating a quality profile with SonarQube projects; Best practices for managing quality profiles
+Tags: Onboarding, Beginner, Video
+
+## [Administering your SonarQube Cloud enterprise account](https://www.sonarsource.com/learn/course/sonarqube-cloud/1c120e81-6bc2-498d-bded-41fd52a15eb1/administering-your-sonarqube-cloud-enterprise-account)
+Summary: This course teaches SonarQube Cloud enterprise administrators how to create and add organizations, monitor LOC consumption, and configure security features in an enterprise account. This course helps administrators gain confidence handling routine tasks without relying on external support.
+Topics: Managing organizations; LOC usage; Enterprise security features; Enterprise administration
+Tags: Onboarding, SonarQube Cloud
+
+## [Best practices for developers](https://www.sonarsource.com/learn/course/webinars/b267cd5b-e916-4c1a-8baf-fda4aa266f95/best-practices-for-developers)
+Summary: In this webinar, Sonar solution experts will walk you through best practices when using SonarQube Server.
+Topics: Sonar’s code methodology; SonarQube Server key metrics; Managing Issues in SonarQube Server; Working with SonarQube IDE; Best practices; Q&A
+Tags: Beginner, Best Practices, Webinar
+
+## [Best practices for SCA rollout and adoption](https://www.sonarsource.com/learn/course/advanced-security/990efa06-7255-4a83-986b-d09ff9f8fed3/best-practices-for-sca-rollout-and-adoption)
+Summary: This course explains how to apply best practices to efficiently roll out SonarQube Advanced Security to your organization.
+Topics: Testing a pilot project for SonarQube Advanced Security; Developing workflows for addressing risks; Rolling out SonarQube Advanced Security; Monitoring your organization's health
+Tags: Best Practices, Video, Advanced Security
+
+## [Best practices for shifting left with SonarQube for IDE](https://www.sonarsource.com/learn/course/sonarqube-for-ide/8369ea74-c2d4-44d4-a9bb-a6cab46fb3eb/best-practices-for-shifting-left-with-sonarqube-for-ide)
+Summary: This course outlines best practices for shifting left by using SonarQube for IDE, which allows you to analyze your code as it's being written.
+Topics: Principle of shift left; Connected Mode; Best practices for configuring SonarQube for IDE
+Tags: SonarQube IDE, Best Practices, Video
+
+## [Configure a GitHub App for SonarQube Server](https://www.sonarsource.com/learn/course/sonarqube-server/58844141-6a47-4fba-b219-d88d7054a045/configure-a-github-app-for-sonarqube-server)
+Summary: This course will teach you how to integrate SonarQube Server with your GitHub workflow. You will learn how to configure a GitHub App for SonarQube Server, install the application, and configure the integration in SonarQube Server. This enables seamless integration with SonarQube Server to automate code quality and security checks.
+Topics: Adding and configuring a dedicated GitHub App; Install the GitHub App; Configure SonarQube Server to integrate with the GitHub App; Verify the integration; Create a project in SonarQube Server from a GitHub repository; Resources and best practices
+Tags: GitHub, Onboarding, Intermediate, Integration
+
+## [Configuring code analysis for SonarQube Cloud with Azure Pipelines](https://www.sonarsource.com/learn/course/sonarqube-cloud/d77cd975-f3c7-4ee9-bda5-9e25447d1c9b/configuring-code-analysis-for-sonarqube-cloud-with-azure-pipelines)
+Summary: This course provides a comprehensive guide to integrating automated code scanning into your development workflow using Azure Pipelines and SonarQube Cloud. You will learn how to set up automated code scanning within your Azure DevOps code repositories to identify issues early and maintain high standards for your codebase.
+Topics: Benefits of automated code analysis; Azure Pipelines structure; Configuring Azure DevOps; Setting up a basic code analysis workflow in Azure Pipelines; Initiating and reviewing your code analysis results; Applying code analysis across different languages; Troubleshooting common issues; Resources and best practices
+Tags: Onboarding, Intermediate, Azure DevOps, Integration
+
+## [Configuring code analysis for SonarQube Cloud with Azure Pipelines and GitHub repositories](https://www.sonarsource.com/learn/course/sonarqube-cloud/f90278ac-4ac4-4d2c-bb39-09c43ac296e9/configuring-code-analysis-for-sonarqube-cloud-with-azure-pipelines-and-github-repositories)
+Summary: This course offers a comprehensive guide to integrating automated code analysis into your development workflow by leveraging Azure Pipelines with SonarQube Cloud and GitHub repositories. You will learn how to set up automated code scanning using GitHub repositories to identify issues early and maintain high standards for your codebase.
+Topics: Benefits of automated code analysis; Azure Pipelines integration with GitHub; Azure Pipelines structure; Configuring Azure DevOps; Setting up a basic code analysis workflow in Azure Pipelines; Initiating and reviewing your code analysis results; Applying code analysis across different languages; Troubleshooting common issues; Resources and best practices
+Tags: GitHub, Onboarding, Intermediate, Azure DevOps, Integration
+
+## [Configuring code analysis for SonarQube Cloud with Bitbucket Cloud Pipelines](https://www.sonarsource.com/learn/course/sonarqube-cloud/830688ff-ff4e-42d0-a30d-cd7ccfc37245/configuring-code-analysis-for-sonarqube-cloud-with-bitbucket-cloud-pipelines)
+Summary: This course offers a comprehensive guide to integrating automated code analysis into your development workflow by leveraging Bitbucket Cloud Pipelines with SonarQube Cloud. You'll learn to set up automated code scanning directly within your Bitbucket Cloud repositories to identify issues early and ensure high standards for your codebase.
+Topics: Benefits of automated code analysis; Bitbucket Pipelines structure; Configuring Bitbucket Pipelines with repository variables; Setting up a basic code analysis workflow in Bitbucket Pipelines; Initiating and reviewing your code analysis results; Applying code analysis across different languages; Troubleshooting common issues; Resources and best practices
+Tags: Onboarding, Bitbucket, Intermediate, Integration
+
+## [Configuring code analysis for SonarQube Cloud with GitHub Actions](https://www.sonarsource.com/learn/course/sonarqube-cloud/08b944e7-e0e0-4fa6-90c9-467cdfb47dda/configuring-code-analysis-for-sonarqube-cloud-with-github-actions)
+Summary: This course provides a comprehensive guide to setting up automated code scanning directly within your GitHub repositories. You'll learn how to define triggers for code analysis, configure the SonarQube Scanner, and interpret your code analysis results by integrating GitHub Actions with SonarQube.
+Topics: GitHub Actions pipeline structure (workflows, jobs, and steps); Setting up a basic code analysis workflow in GitHub; Reviewing code analysis results in SonarQube; Applying SonarQube's code analysis across different programming languages; Troubleshooting common issues; Best practices and resources
+Tags: GitHub, Onboarding, Intermediate, Integration
+
+## [Configuring code analysis for SonarQube Cloud with GitLab CI/CD](https://www.sonarsource.com/learn/course/sonarqube-cloud/829acfc2-7443-4192-b9e9-872dd6757bc0/configuring-code-analysis-for-sonarqube-cloud-with-gitlab-ci-cd)
+Summary: This comprehensive guide provides a complete framework for setting up automated code scanning by integrating SonarQube Cloud with your GitLab CI/CD workflow. By the end of the course, you'll be able to seamlessly embed code quality and security checks directly into your development workflow to catch issues early and ensure a higher standard for your codebase.
+Topics: Understanding GitLab CI/CD structure; Configuring GitLab CI/CD; Setting up a basic code analysis workflow in GitLab CI/CD; Initiating code analysis results; Applying SonarQube's code analysis across languages; Troubleshooting common issues
+Tags: GitLab, Onboarding, Intermediate, Integration
+
+## [Configuring code analysis for SonarQube Server with Azure Pipelines](https://www.sonarsource.com/learn/course/sonarqube-server/c4a63806-1807-43c4-bd54-51275a28486a/configuring-code-analysis-for-sonarqube-server-with-azure-pipelines)
+Summary: This course provides a comprehensive guide to integrating automated code scanning into your development workflow using Azure Pipelines and SonarQube. You will learn how to set up automated code scanning within your Azure DevOps repositories to identify issues early and maintain high standards for your codebase.
+Topics: Benefits of automated code analysis; Azure Pipelines structure; Configuring Azure DevOps; Setting up a basic code analysis workflow in Azure Pipelines; Initiating and reviewing your code analysis results; Applyingcode analysis across different languages; Troubleshooting common issues; Resources and best practices
+Tags: Onboarding, Intermediate, Azure DevOps, Integration
+
+## [Configuring code analysis for SonarQube Server with Azure Pipelines and GitHub repositories](https://www.sonarsource.com/learn/course/sonarqube-server/09ef9837-bba9-4284-b227-2af02e7495c8/configuring-code-analysis-for-sonarqube-server-with-azure-pipelines-and-github-repositories)
+Summary: This course provides a comprehensive guide to setting up automated code analysis using SonarQube Server with Azure Pipelines and GitHub repositories. By leveraging this integration, you can seamlessly embed crucial code quality and security checks into your development workflow to quickly identify issues and ensure higher standards for your codebase.
+Topics: Azure Pipelines integration with GitHub; Configuring Azure DevOps; Setting up a basic code analysis workflow in Azure Pipelines; Initiating and reviewing your code analysis; Applying SonarQube's code analysis across different programming languages; Troubleshooting common issues; Resources and best practices
+Tags: GitHub, Onboarding, Intermediate, Azure DevOps, Integration
+
+## [Configuring code analysis for SonarQube Server with Bitbucket Cloud Pipelines](https://www.sonarsource.com/learn/course/sonarqube-server/8b8787b0-19ca-4e91-8ee6-1db566d11622/configuring-code-analysis-for-sonarqube-server-with-bitbucket-cloud-pipelines)
+Summary: This course demonstrates how to set up automated code scanning in your Bitbucket Cloud repositories by integrating Bitbucket Cloud Pipelines with SonarQube Server. This helps you seamlessly integrate code scanning, identify issues early, and ensure a high standard for your codebase.
+Topics: Understanding Bitbucket Pipelines structure; Configuring Bitbucket Pipelines; Setting up a basic code analysis workflow in Bitbucket Pipelines; Initiating your code analysis; Applying SonarQube's code analysis across languages; Troubleshooting common issues; Resources and best practices
+Tags: Onboarding, Bitbucket, Intermediate, Integration
+
+## [Configuring code analysis for SonarQube Server with GitHub Actions](https://www.sonarsource.com/learn/course/sonarqube-server/65ef94d1-28be-436c-b639-06027c4295e7/configuring-code-analysis-for-sonarqube-server-with-github-actions)
+Summary: This course provides a comprehensive guide to setting up automated code scanning directly within your GitHub repositories. You'll learn how to define triggers for code analysis, configure the SonarQube Scanner, and interpret your code analysis results by integrating GitHub Actions with SonarQube.
+Topics: Setting up a basic code analysis workflow in GitHub; Reviewing code analysis results in SonarQube; Applying SonarQube's code analysis across different programming languages; Troubleshooting common issues; Best practices and resources
+Tags: GitHub, Onboarding, Intermediate, Integration
+
+## [Configuring code analysis for SonarQube Server with GitLab CI/CD](https://www.sonarsource.com/learn/course/sonarqube-server/50bf1108-183d-4b05-9b4d-5afc0b933dce/configuring-code-analysis-for-sonarqube-server-with-gitlab-ci-cd)
+Summary: This course demonstrates how to set up automated code scanning in your GitLab repositories by integrating GitLab CI/CD with SonarQube. You'll learn to identify issues early in the development workflow to maintain high quality and security standards for your codebase.
+Topics: Setting up a basic code analysis workflow; Reviewing code analysis results; Applying SonarQube's code analysis across different programming languages; Troubleshooting common issues; Resources and best practices
+Tags: GitLab, Onboarding, Intermediate, Integration
+
+## [Configuring merge request decoration for SonarQube Cloud with GitLab CI/CD](https://www.sonarsource.com/learn/course/sonarqube-cloud/8127dd1f-6fd7-4b57-8d62-50a1494f59a9/configuring-merge-request-decoration-for-sonarqube-cloud-with-gitlab-ci-cd)
+Summary: This course teaches you how to integrate SonarQube Cloud's merge request (MR) decoration and merge blocking directly into your GitLab CI/CD pipelines. This powerful integration will make your code reviews more efficient and lead to a more secure codebase.
+Topics: Defining success and the benefits of automated code analysis; Enhancing your code review with MR decoration and blocking; Configuring SonarQube Cloud for MR decoration and merge prevention; Configuring GitLab to enable automatic merge blocking; Testing MR decoration; Preventing an MR when a quality gate fails
+Tags: GitLab, Onboarding, Intermediate, Integration
+
+## [Configuring merge request decoration for SonarQube Server with GitLab](https://www.sonarsource.com/learn/course/sonarqube-server/6c6514bd-ea2a-4f44-9e0f-d73cbeb26ca3/configuring-merge-request-decoration-for-sonarqube-server-with-gitlab)
+Summary: This course teaches you how to integrate SonarQube Server with your GitLab CI/CD pipelines to implement merge request (MR) decoration and merge blocking. This integration is designed to make your code reviews more efficient and lead to a more secure codebase.
+Topics: Enhancing your code review with MR decoration; Configuring SonarQube Server; Configuring GitLab; Testing MR decoration; Preventing an MR when a quality gate fails
+Tags: GitLab, Onboarding, Intermediate, Integration
+
+## [Configuring pull request decoration for SonarQube Cloud using Azure DevOps](https://www.sonarsource.com/learn/course/sonarqube-cloud/4a81488c-81ec-4479-8f93-e7bda1a00351/configuring-pull-request-decoration-for-sonarqube-cloud-using-azure-devops)
+Summary: This course teaches you how to integrate SonarQube Cloud's pull request (PR) decoration and PR blocking features directly into Azure DevOps PRs. By configuring PR decoration, you'll enhance the efficiency, security, and quality of your software development.
+Topics: Prerequisites for PR decoration; Enhancing your code review with PR decoration; Configuring SonarQube Cloud; Configuring Azure DevOps; Testing PR decoration; Preventing a PR merge when a quality gate fails; Additional resources and troubleshooting tips
+Tags: Onboarding, Intermediate, Azure DevOps, Integration
+
+## [Configuring pull request decoration for SonarQube Cloud using Azure Pipelines and GitHub repositories](https://www.sonarsource.com/learn/course/sonarqube-cloud/b62c40a3-c875-40b4-ab65-47f49ecc85d1/configuring-pull-request-decoration-for-sonarqube-cloud-using-azure-pipelines-and-github-repositories)
+Summary: This course teaches you how to integrate SonarQube Cloud pull request decoration and merge blocking in your GitHub PRs using Azure Pipelines. Configuring PR decoration enables you to improve the efficiency, security, and quality of your code.
+Topics: Prerequisites for PR decoration; Enhancing your code review with PR decoration; Configuring SonarQube Cloud; Configuring Azure DevOps; Configuring GitHub PR decoration; Testing PR decoration; Preventing a PR merge when a quality gate fails; Additional resources and troubleshooting tips
+Tags: GitHub, Onboarding, Intermediate, Azure DevOps, Integration
+
+## [Configuring pull request decoration for SonarQube Cloud with Bitbucket Cloud Pipelines](https://www.sonarsource.com/learn/course/sonarqube-cloud/b25fceb3-8dc6-4b5f-91d2-b6bcfd60b848/configuring-pull-request-decoration-for-sonarqube-cloud-with-bitbucket-cloud-pipelines)
+Summary: This course demonstrates how to integrate SonarQube Cloud pull request (PR) decoration and blocking features into your Bitbucket Cloud Pipelines PRs. This integration enables you to automate code quality and security checks directly within your development workflow.
+Topics: Enhancing code reviews with PR decoration; Configuring Bitbucket Cloud for PR decoration and merge prevention; Configuring SonarQube for PR decoration; Testing PR decoration; Preventing a merge when a quality gate fails; Additional resources
+Tags: Onboarding, Bitbucket, Intermediate, Integration
+
+## [Configuring pull request decoration for SonarQube Cloud with GitHub Actions](https://www.sonarsource.com/learn/course/sonarqube-cloud/2b1101c1-91b5-4a30-a0be-cbcccd8c2a61/configuring-pull-request-decoration-for-sonarqube-cloud-with-github-actions)
+Summary: This course teaches you how to integrate SonarQube Cloud's pull request decoration and merge blocking features into your GitHub Actions pull requests to improve code quality and security. By configuring this integration, you'll make code reviews more efficient and ensure a more secure codebase.
+Topics: Enhancing code reviews with PR decoration; Configuring GitHub for pull request decoration and merge prevention; Configuring SonarQube for pull request decoration; Testing pull request decoration; Preventing a pull request from merging when a quality gate fails
+Tags: GitHub, Onboarding, Intermediate, Integration
+
+## [Configuring pull request decoration for SonarQube Server using Azure DevOps](https://www.sonarsource.com/learn/course/sonarqube-server/6ab84273-0146-466b-ae2b-476906dc5585/configuring-pull-request-decoration-for-sonarqube-server-using-azure-devops)
+Summary: This course teaches you how to integrate SonarQube Server's pull request (PR) decoration and PR blocking into Azure DevOps PRs. By configuring PR decoration, you'll enhance the efficiency, security, and quality of your software development.
+Topics: Enhancing your code review with PR decoration; Configuring SonarQube Server; Configuring Azure DevOps; Testing PR decoration; Preventing a PR merge when a quality gate fails; Additional resources
+Tags: Onboarding, Intermediate, Azure DevOps, Integration
+
+## [Configuring pull request decoration for SonarQube Server with Azure Pipelines and GitHub repositories](https://www.sonarsource.com/learn/course/sonarqube-server/ec3d8b24-bcc6-4857-9aa0-f2c2c2d6df5a/configuring-pull-request-decoration-for-sonarqube-server-with-azure-pipelines-and-github-repositories)
+Summary: This course teaches you how to integrate SonarQube Server pull request (PR) decoration and PR blocking into your GitHub PRs by running your pipeline in Azure DevOps. By configuring PR decoration, you'll enhance the efficiency, security, and quality of your software development.
+Topics: Enhancing code review with PR decoration.; Configuring GitHub for PR decoration and merge prevention.; Configuring SonarQube Server for PR decoration; Testing PR decoration; Preventing a PR merge when a quality gate fails.
+Tags: GitHub, Onboarding, Intermediate, Azure DevOps, Integration
+
+## [Configuring pull request decoration for SonarQube Server with Bitbucket Cloud Pipelines](https://www.sonarsource.com/learn/course/sonarqube-server/16851436-6147-454a-9767-d821b9da78ef/configuring-pull-request-decoration-for-sonarqube-server-with-bitbucket-cloud-pipelines)
+Summary: This course demonstrates how to integrate SonarQube Server's pull request (PR) decoration and blocking features into your Bitbucket Cloud Pipelines PRs. This integration enables you to automate code quality and security checks directly within your development workflow.
+Topics: Enhancing code reviews with PR decoration; Configuring Bitbucket Cloud for PR decoration and merge prevention; Configuring SonarQube for PR decoration; Testing PR decoration; Preventing a merge when a quality gate fails; Additional resources
+Tags: Onboarding, Bitbucket, Intermediate, Integration
+
+## [Configuring pull request decoration for SonarQube Server with GitHub Actions](https://www.sonarsource.com/learn/course/sonarqube-server/3e36bd9c-759d-42a1-9ee5-f2d2b8dcaf42/configuring-pull-request-decoration-for-sonarqube-server-with-github-actions)
+Summary: This course teaches you how to integrate SonarQube Server's pull request decoration and merge blocking features into your GitHub Actions pull requests to improve code quality and security. By configuring this integration, you'll make code reviews more efficient and ensure a more secure codebase.
+Topics: Enhancing code reviews with PR decoration; Configuring GitHub for pull request decoration and merge prevention; Configuring SonarQube for pull request decoration; Testing pull request decoration; Preventing a pull request from merging when a quality gate fails
+Tags: GitHub, Onboarding, Intermediate, Integration
+
+## [Configuring SonarQube Advanced Security](https://www.sonarsource.com/learn/course/advanced-security/7160987d-7e9b-4223-a434-8dfba3beb34a/configuring-sonarqube-advanced-security)
+Summary: This course guides administrators through enabling and configuring SonarQube Advanced Security, which extends SonarQube's features to include Advanced SAST and Software Composition Analysis (SCA) functionality. You'll learn how to customize the solution to manage dependency risks, security vulnerabilities, malicious packages, and prohibited licenses in your third-party code.
+Topics: Enabling SonarQube Advanced Security; Creating and customizing a license profile; Verifying SCA is enabled; Configuring a quality gate for dependency risks; Working with a Software Bill of Materials (SBOM); Resources and best practices
+Tags: Onboarding, Beginner, Advanced Security
+
+## [Creating global analysis tokens in SonarQube Server](https://www.sonarsource.com/learn/course/sonarqube-server/1b955a3c-274a-4a62-94fa-45e69ac71c08/creating-global-analysis-tokens-in-sonarqube-server)
+Summary: This course explains how to use SonarQube Server global analysis tokens to manage secure, automated code analysis across all of your projects. It covers the purpose of these tokens and how to generate them within SonarQube.
+Topics: Purpose of global analysis tokens; How to create a global analysis token; The importance of the Global Execute Analysis permission; Setting an expiration date for a token; Storing a newly generated token securely; How to use the token in CI/CD workflows and SonarScanner analysis
+Tags: Onboarding, Beginner, Video
+
+## [Creating project analysis tokens in SonarQube Server](https://www.sonarsource.com/learn/course/sonarqube-server/f71931af-21f0-43e3-bf2e-e6208781c375/creating-project-analysis-tokens-in-sonarqube-server)
+Summary: This course explains how to create SonarQube Server project analysis tokens to securely manage automated code analysis on a single project.
+Topics: Purpose and function of project analysis tokens; Permissions required to create a project analysis token; Steps for creating a token in SonarQube Server; Best practices for token security
+Tags: Onboarding, Beginner, Video
+
+## [Creating scoped organization tokens in SonarQube Cloud](https://www.sonarsource.com/learn/course/sonarqube-cloud/86ad9781-cfb5-4c02-b141-1fe776843827/creating-scoped-organization-tokens-in-sonarqube-cloud)
+Summary: This course explains how to use SonarQube Cloud scoped organization tokens to manage secure, automated code analysis across your projects. It covers the purpose of these tokens and how to generate them within SonarQube.
+Topics: Purpose of scoped organization tokens; Difference between scoped organization tokens and global organization tokens; Token management process; Steps for creating a scoped organization token; Token usage in CI/CD workflows
+Tags: Onboarding, Beginner, Video
+
+## [Creating user analysis tokens in SonarQube Server](https://www.sonarsource.com/learn/course/sonarqube-server/15983762-8875-42a2-8d8e-ccbfd179c878/creating-user-analysis-tokens-in-sonarqube-server)
+Summary: This course explains what a user token is and how to create one in SonarQube Server. It demonstrates how user tokens can perform actions via Web API while keeping your personal password secure.
+Topics: Purpose and function of SonarQube user tokens; Generating a user token through user account settings; Setting an expiration date for a user token; Securely saving user tokens; Generating user tokens as an administrator
+Tags: Onboarding, Beginner, Video
+
+## [Defining and managing portfolios in SonarQube Cloud](https://www.sonarsource.com/learn/course/sonarqube-cloud/9e81f487-79ca-4836-9d5b-59a543243a71/defining-and-managing-portfolios-in-sonarqube-cloud)
+Summary: This course explains how to define and manage portfolios to gain visibility into your overall project portfolio health and code releasability. You'll learn how to navigate different portfolio views and how portfolio ratings and metrics are calculated.
+Topics: Creating and managing portfolios; Best practices for portfolio selection; Portfolio releasability and ratings; Portfolio views and reports; Portfolio dashboards
+Tags: SonarQube Cloud, Intermediate
+
+## [Defining and managing portfolios in SonarQube Server](https://www.sonarsource.com/learn/course/sonarqube-server/89c52278-95f7-47eb-bdcc-a4f6cd262eb3/defining-and-managing-portfolios-in-sonarqube-server)
+Summary: This course guides you through how to create and configure portfolios to gain visibility into project release readiness and other portfolio ratings in SonarQube.
+Topics: Creating and configuring portfolios; Project selection modes; Portfolio releasability and ratings; Portfolio views and metrics; Managing portfolio reports; Troubleshooting portfolios
+Tags: SonarQube Server, Intermediate
+
+## [Get started with automatic analysis in SonarQube Cloud](https://www.sonarsource.com/learn/course/sonarqube-cloud/407d6399-efb4-4b75-81db-e8258540ab9f/get-started-with-automatic-analysis-in-sonarqube-cloud)
+Summary: You will learn how to use automatic analysis in SonarQube Cloud to receive immediate code quality and security feedback directly from your repositories. This course demonstrates how to start analyzing code in minutes without the need to configure complex CI/CD pipelines or build scripts.
+Topics: Benefits of automatic analysis such as reduced onboarding friction and continuous feedback on pull requests; Workflow differences between automatic and CI-based analysis methods; Platform support for GitHub and Azure DevOps; Language-specific requirements and constraints for Java, .NET, and C/C++; Eligibility criteria including supported language thresholds and file size limits; Organization-level and project-level activation procedures; Scope customization via the SonarQube Cloud UI or properties files; Limitations regarding code coverage, monorepos, and analysis logs
+Tags: SonarQube Cloud, Beginner
+
+## [Getting started with Sonar: Onboarding essentials](https://www.sonarsource.com/learn/course/core-concepts/71f50722-68bc-4504-bec9-cc269ed96f36/getting-started-with-sonar-onboarding-essentials)
+Summary: This course is designed to help you quickly get started using your Sonar products. It allows you to choose an onboarding path tailored by role, product, or onboarding topic. You'll explore essential Sonar resources, become familiar with online training and technical documentation, and learn where to go to find answers and get help.
+Topics: SonarQube Server; SonarQube Cloud; SonarQube Advanced Security; SonarQube for IDE; SonarQube MCP Server; Sonar Learning Center; Sonar Documentation; Sonar Community; Sonar Help Center; Sonar LTA Update Hub
+Tags: Onboarding, Beginner
+
+## [How does SCA work in SonarQube Advanced Security?](https://www.sonarsource.com/learn/course/advanced-security/58f074f4-e16e-4fda-9465-8f6132a9d493/how-does-sca-work-in-sonarqube-advanced-security)
+Summary: This course helps software developers and engineering leaders understand how Software Composition Analysis (SCA) mitigates and remedies dependency risks introduced by third-party open-source software. This course also includes a product walkthrough that highlights key SCA features in SonarQube Advanced Security.
+Topics: Fundamental concepts of SCA; How SCA addresses developer pain points; How SCA works in SonarQube Advanced Security; How to get started with SCA in SonarQube
+Tags: Onboarding, Beginner, Video, Advanced Security
+
+## [Initial SonarQube Cloud Enterprise set up](https://www.sonarsource.com/learn/course/sonarqube-cloud/e390f0fe-64f4-4840-b74c-e63598af72f2/initial-sonarqube-cloud-enterprise-set-up)
+Summary: This course provides guidance on setting up a SonarQube Cloud Enterprise subscription, and enables users to utilize the enhanced features of the Enterprise plan by walking them through the initial setup process.
+Topics: Creating the SonarQube Cloud Enterprise entity; Adding an organization to the Enterprise; Resources and best practices
+Tags: Onboarding, Intermediate
+
+## [Initial SonarQube Cloud set up with Azure DevOps](https://www.sonarsource.com/learn/course/sonarqube-cloud/03584daa-8cd6-4825-be83-4ca3b0e73078/initial-sonarqube-cloud-set-up-with-azure-devops)
+Summary: This course guides learners through the initial setup of SonarQube Cloud, focusing on ensuring essential code quality and security. It covers how to use Azure DevOps platform credentials to sign in, create a SonarQube Cloud account, connect an Azure DevOps organization to SonarQube Cloud, and add the first project for analysis.
+Topics: Creating a SonarQube Cloud account using Azure DevOps credentials; Setting up a SonarQube Cloud organization and connecting it to an Azure DevOps organization; Adding an Azure DevOps project (repository) to the SonarQube Cloud organization; Resources and best practices for using SonarQube Cloud with Azure DevOps
+Tags: Authorization, Onboarding, Authentication, Azure DevOps, Integration
+
+## [Initial SonarQube Cloud set up with Bitbucket](https://www.sonarsource.com/learn/course/sonarqube-cloud/6026e0b7-1566-44d6-95b9-1fab00c0848a/initial-sonarqube-cloud-set-up-with-bitbucket)
+Summary: This course shows you how to set up SonarQube Cloud using your Bitbucket Cloud credentials. You'll learn how to connect your Bitbucket Cloud workspace to SonarQube Cloud, and add your first project to SonarQube Cloud for analysis.
+Topics: Creating a SonarQube Cloud account using Bitbucket Cloud credentials; Setting up an organization in SonarQube Cloud; Adding a project to your SonarQube Cloud organization; Understanding resources and best practices for SonarQube Cloud and Bitbucket Cloud integration
+Tags: Onboarding, Bitbucket, Intermediate
+
+## [Initial SonarQube Cloud set up with GitHub](https://www.sonarsource.com/learn/course/sonarqube-cloud/e598e92a-7788-44a2-81c3-399432a52892/initial-sonarqube-cloud-set-up-with-github)
+Summary: This course guides you through the initial setup of SonarQube Cloud using GitHub credentials. You will learn how to create a SonarQube Cloud account, authorize the necessary GitHub application, connect a GitHub organization to SonarQube Cloud, and add your first project for analysis.
+Topics: Creating a SonarQube Cloud account using GitHub credentials.; Setting up a SonarQube Cloud organization linked to a GitHub organization.; Adding a GitHub project (repository) to your SonarQube Cloud organization.; Resources and best practices for using SonarQube Cloud with GitHub.
+Tags: GitHub, Authorization, Onboarding, Authentication, Integration
+
+## [Initial SonarQube Cloud set up with GitLab](https://www.sonarsource.com/learn/course/sonarqube-cloud/157cdb9a-5e24-4e93-ad85-fa73548a00e2/initial-sonarqube-cloud-set-up-with-gitlab)
+Summary: This course guides you through how to complete the initial setup of SonarQube Cloud integrated with GitLab. You'll learn how to create a SonarQube Cloud account using GitLab credentials, connect a GitLab organization, and add your first project for analysis.
+Topics: Creating a SonarQube Cloud account via GitLab authentication; Authorizing the SonarQube Cloud application on GitLab; Setting up a GitLab organization within SonarQube Cloud; Importing a GitLab group or personal project; Generating and using GitLab personal access tokens; Adding a GitLab repository as a project in SonarQube Cloud; Setting up the new code definition; Resources and best practices
+Tags: GitLab, Authorization, Onboarding, Intermediate, Authentication, Integration
+
+## [Installing SonarQube Server Data Center edition on Amazon Elastic Kubernetes Service (EKS)](https://www.sonarsource.com/learn/course/sonarqube-server/adba64c6-265a-4846-aacc-a89e600023da/installing-sonarqube-server-data-center-edition-on-amazon-elastic-kubernetes-service-eks)
+Summary: This course teaches you how to deploy SonarQube Server Data Center edition on AWS using Terraform and Amazon Elastic Kubernetes Service (EKS). You'll learn how to build a highly available, resilient, and scalable environment by leveraging Terraform Infrastructure as Code (IaC) principles to streamline complex manual configurations.
+Topics: Benefits of using EKS and Terraform; Provisioning AWS infrastructure through Terraform templates and variable configuration; Deployment validation using the AWS Console and kubectl command-line tools; DNS resolution verification for public access; Initial SonarQube sign-in and administrator password management; License activation and Server ID management; Troubleshooting common issues; Best practices
+Tags: Onboarding, Intermediate, AWS
+
+## [Installing SonarQube Server Enterprise edition on Amazon Elastic Compute Cloud (EC2)](https://www.sonarsource.com/learn/course/sonarqube-server/6e57cac6-615c-4993-8569-898a2422b3c7/installing-sonarqube-server-enterprise-edition-on-amazon-elastic-compute-cloud-ec2)
+Summary: This course teaches you how to deploy SonarQube Server Enterprise Edition on Amazon Elastic Compute Cloud (EC2) using Terraform. This allows you to transform a complex manual operation into a repeatable process using Infrastructure as Code (IaC).
+Topics: Benefits of using EC2 and Terraform; Provisioning AWS infrastructure; Configuring network and security; Validation of deployment status and verification of DNS resolution; License activation and Server ID management; Troubleshooting common issues
+Tags: Onboarding, Intermediate, AWS
+
+## [Installing SonarQube Server Enterprise edition on Amazon Elastic Kubernetes Service (EKS)](https://www.sonarsource.com/learn/course/sonarqube-server/cf86e280-2214-44c7-9f4e-82b0b3c01c82/installing-sonarqube-server-enterprise-edition-on-amazon-elastic-kubernetes-service-eks)
+Summary: This course teaches you how to deploy SonarQube Server Enterprise Edition on AWS using Terraform and Amazon Elastic Kubernetes Service (EKS). You'll learn how to build a highly available, resilient, and scalable environment by leveraging Terraform Infrastructure as Code (IaC) principles to streamline complex manual configurations.
+Topics: Benefits of using EKS and Terraform; Provisioning AWS infrastructure through Terraform templates and variable configuration; Deployment validation using the AWS Console and kubectl command-line tools; DNS resolution verification for public access; Initial SonarQube sign-in and administrator password management; License activation and Server ID management; Troubleshooting common credential, connectivity, and database issues; Best practices for resource scaling and component isolation
+Tags: Onboarding, Intermediate, AWS
+
+## [Integrating SonarQube Server with Entra ID](https://www.sonarsource.com/learn/course/sonarqube-server/97002096-a172-4421-819c-928586e933ae/integrating-sonarqube-server-with-entra-id)
+Summary: This course shows you how to integrate SonarQube Server with Microsoft Entra ID, and covers the necessary steps including application registration, configuration, and enabling user provisioning.
+Topics: Benefits of Entra ID authentication; Configuring an application in Entra ID; Configuring the Entra ID integration in SonarQube Server; Enabling SCIM provisioning; Resources and best practices
+Tags: Authorization, Onboarding, Intermediate, Authentication, Integration
+
+## [Integrating SonarQube Server with GitHub for authentication and authorization](https://www.sonarsource.com/learn/course/sonarqube-server/b02dfc7d-cc1f-44fc-acbd-abd3fb0dc19e/integrating-sonarqube-server-with-github-for-authentication-and-authorization)
+Summary: This course guides you through the steps to integrate SonarQube Server with GitHub for authentication and authorization. You'll learn how to register and configure a dedicated GitHub App, set up the integration within SonarQube Server, and enable user provisioning.
+Topics: Configuring the GitHub integration within SonarQube Server; Enabling and configuring user provisioning; Resources and best practices
+Tags: GitHub, Authorization, Onboarding, Intermediate, Authentication, Integration
+
+## [Integrating SonarQube Server with GitLab for authentication and authorization](https://www.sonarsource.com/learn/course/sonarqube-server/b340274e-95ca-4ea2-8754-7ab08a9d73f9/integrating-sonarqube-server-with-gitlab-for-authentication-and-authorization)
+Summary: This course guides you through the steps for integrating SonarQube Server with GitLab for authentication and authorization. You'll learn how to register a GitLab application, configure both GitLab and SonarQube for the integration, and set up up user provisioning.
+Topics: Configuring the GitLab integration within SonarQube Server; Enabling and configuring user provisioning; Resources and best practices
+Tags: GitLab, Authorization, Onboarding, Authentication, Integration
+
+## [Integrating SonarQube Server with Okta](https://www.sonarsource.com/learn/course/sonarqube-server/d29cb66b-91b1-47f2-9f15-4bdd0771b899/integrating-sonarqube-server-with-okta)
+Summary: This course shows you how to integrate SonarQube Server with Okta to enable users to log into SonarQube using their existing Okta credentials. You'll learn how to configure the necessary settings in Okta and SonarQube, validate the integration, and enable SCIM provisioning for automated user management.
+Topics: Configuring an Okta application; Assigning users and groups; Configuring Okta integration settings; Validating the Okta integration; Setting up group membership synchronization; Enabling and configuring SCIM provisioning; Resources and best practices
+Tags: Authorization, Onboarding, Authentication, Integration
+
+## [Introducing SCA: How is modern software built today?](https://www.sonarsource.com/learn/course/advanced-security/edb09c7e-54b0-4c7d-a66e-08bdd57e2fc5/introducing-sca-how-is-modern-software-built-today)
+Summary: This course is designed to help you understand how modern software is assembled today. You'll learn about the benefits and risks associated with using open-source components in software development. This course covers dependency risks introduced by third-party code, including security vulnerabilities, malicious packages, and licensing risks, and the importance of proactively managing these risks in the SDLC.
+Topics: Benefits of using open-source software; How third-party components come into an application; Security vulnerability risks; Malicious package risks; Licensing risks
+Tags: Onboarding, Beginner, Advanced Security
+
+## [Introduction to authentication and authorization with SonarQube Server](https://www.sonarsource.com/learn/course/sonarqube-server/7764fa83-a62c-4000-9a5f-bd2efa29ea04/introduction-to-authentication-and-authorization-with-sonarqube-server)
+Summary: This course provides an overview of SonarQube Server's authentication and authorization concepts. Understanding these concepts is crucial for protecting code by controlling access, tracking user activity, and securely integrating SonarQube Server with other tools. This course covers the different authentication methods supported by SonarQube Server and how authorization works in the platform.
+Topics: Fundamentals of authentication and authorization; Authentication methods supported by SonarQube Server; How authorization works in SonarQube Server; Resources and best practices
+Tags: Authorization, Onboarding, Intermediate, Authentication, Integration
+
+## [Introduction to rules, quality profiles, and quality gates in SonarQube](https://www.sonarsource.com/learn/course/core-concepts/4ce5a772-5253-41dd-b521-8f7c72a7c6dd/introduction-to-rules-quality-profiles-and-quality-gates-in-sonarqube)
+Summary: This course provides an overview of how SonarQube rules, quality profiles, and quality gates work together to enforce your code quality and security standards. This course also explores the various types of conditions and metrics used in quality gates to ensure only high-quality, secure code enters your development pipeline.
+Topics: Defining and enforcing code quality; How rules work in SonarQube; How quality gates work in SonarQube; How quality profiles work in SonarQube; Resources and best practices
+Tags: Onboarding, Beginner
+
+## [Introduction to SonarQube for IDE](https://www.sonarsource.com/learn/course/sonarqube-for-ide/fd73ccb2-f4c6-4d5d-816b-edec87873345/introduction-to-sonarqube-for-ide)
+Summary: This course provides an overview of the concept of *shift left* and how this practice has evolved over time. You’ll learn how using SonarQube for IDE in Connected Mode allows you to shift left even further by finding and fixing issues as you write code.
+Topics: Principle of shift left; History of shift left; SonarQube for IDE; Connected Mode
+Tags: Onboarding, Beginner
+
+## [Managing dependency risks with SCA](https://www.sonarsource.com/learn/course/advanced-security/0d978f0e-2f31-4fba-be8f-c8fca8fe44b4/managing-dependency-risks-with-sca)
+Summary: This course is designed to help you understand how to address dependency risks found in your code using SonarQube Advanced Security. It provides step-by-step guidance on how to view, assess, and remediate security vulnerabilities, malicious packages, and licensing risks detected in your code.
+Topics: Viewing and filtering dependency risks; Assessing risk scores; Direct and transitive dependencies; Maintainer insights; Using SonarQube for IDE; Leveraging SBOMs; Dependency risk reports
+Tags: Advanced Security
+
+## [Managing users, groups, permissions, and permission templates in SonarQube Cloud](https://www.sonarsource.com/learn/course/core-concepts/89adb96f-1ddc-43af-9fde-e4a7e37b79b1/managing-users-groups-permissions-and-permission-templates-in-sonarqube-cloud)
+Summary: This course provides a comprehensive guide to managing users, groups, and permissions in SonarQube Cloud. You'll learn how to apply permissions at both the organization and project level, and use permission templates to automate and scale user management.
+Topics: The SonarQube access model foundation; User provisioning and group structures; Organization-level vs. project-level permissions; Standardizing access with permission templates; Bulk user administration
+Tags: Onboarding, Beginner
+
+## [Managing users, groups, permissions, and permission templates in SonarQube Server](https://www.sonarsource.com/learn/course/core-concepts/cb368919-8cf2-4442-9ecb-0ee986a4a48b/managing-users-groups-permissions-and-permission-templates-in-sonarqube-server)
+Summary: In this course, you will learn to effectively manage users and groups, apply permissions at global and project levels, and leverage permission templates to automate project access in SonarQube Server. ###
+Topics: SonarQube access model components; User and group administration; Global and project-level permission assignment; Permission template customization; Integration with external identity providers; Automated and bulk application of permission templates
+Tags: Onboarding, Beginner
+
+## [Onboarding projects to SonarQube Cloud](https://www.sonarsource.com/learn/course/webinars/f4cb328a-6d8e-46ac-baac-b7a5de05e63e/onboarding-projects-to-sonarqube-cloud)
+Summary: In this on-demand webinar, Sonar solution experts walk you through onboarding projects with SonarQube Cloud.
+Topics: Overview of SonarQube Scanners; Integrating SonarQube with CI Automation; Using SonarQube pull request (PR) decoration; SonarQube's new code period settings; Setting up SonarQube applications and portfolios; Q&A
+Tags: Onboarding, Beginner, Webinar
+
+## [Onboarding projects to SonarQube Server](https://www.sonarsource.com/learn/course/webinars/31af0bbe-28b9-4784-824b-0d584ad045dc/onboarding-projects-to-sonarqube-server)
+Summary: In this on-demand webinar, Sonar solution experts walk you through onboarding projects with SonarQube Server.
+Topics: Overview of SonarQube Server Scanners; Integrating SonarQube Server with CI Automation; Using SonarQube Server pull request (PR) decoration; SonarQube Server’s new code period settings; Setting up SonarQube Server applications and portfolios; Q&A
+Tags: Onboarding, Beginner, Webinar
+
+## [Operating your SonarQube Server instance](https://www.sonarsource.com/learn/course/webinars/1c131344-491d-4547-a28f-c149407b2862/operating-your-sonarqube-server-instance)
+Summary: In this on-demand webinar, Sonar solution experts provide an overview of the SonarQube Server installation and setup process.
+Topics: Overview of SonarQube Server architecture; Integrating SonarQube Server with your DevOps platform; Setting up users and authentication on SonarQube Server; Managing your code quality standards with SonarQube Server; Monitoring your SonarQube Server instance; Keeping SonarQube Server updated
+Tags: Onboarding, Beginner, Webinar
+
+## [Ramping quality gates: A practical guide for enforcing code quality and security standards](https://www.sonarsource.com/learn/course/core-concepts/2f785e41-5bb7-4236-ba7f-a4c449ab9c58/ramping-quality-gates-a-practical-guide-for-enforcing-code-quality-and-security-standards)
+Summary: In this course, you'll learn how to implement a tiered quality gate framework to centralize and enforce code quality and security standards across your organization. This guide walks you through how to incrementally increase your quality standards, and provides effective change management tips.
+Topics: Tiered quality gates; Quality gate thresholds; Change management
+Tags: Onboarding, Intermediate, Beginner, Best Practices
+
+## [Setting up SonarQube for IDE in Connected Mode with Cursor](https://www.sonarsource.com/learn/course/sonarqube-for-ide/ad2919d7-197f-4ad8-8605-7d8c10d4cd09/setting-up-sonarqube-for-ide-in-connected-mode-with-cursor)
+Summary: This course outlines the process for setting up SonarQube for IDE within Cursor. To learn more about SonarQube for IDE and its Connected Mode features, [see Sonar's online documentation.](https://docs.sonarsource.com/sonarqube-for-vs-code#connected-mode)
+Topics: SonarQube for IDE installation; Connected Mode; Project binding and sharing
+Tags: SonarQube IDE, Best Practices, Video
+
+## [Setting up SonarQube for IDE in Connected Mode with Eclipse](https://www.sonarsource.com/learn/course/sonarqube-for-ide/decf1afe-f6bf-45d3-aa21-ea2d97a9fc93/setting-up-sonarqube-for-ide-in-connected-mode-with-eclipse)
+Summary: This course outlines the process for setting up SonarQube for IDE within Eclipse. To learn more about SonarQube for IDE and its Connected Mode features, [see Sonar's online documentation.](https://docs.sonarsource.com/sonarqube-for-eclipse)
+Topics: SonarQube for IDE installation; Connected Mode; Project binding and sharing
+Tags: SonarQube IDE, Best Practices, Video
+
+## [Setting up SonarQube for IDE in Connected Mode with IntelliJ](https://www.sonarsource.com/learn/course/sonarqube-for-ide/e4637169-9940-430a-a854-10eb3d34809f/setting-up-sonarqube-for-ide-in-connected-mode-with-intellij)
+Summary: This course outlines the process for setting up SonarQube for IDE within IntelliJ. To learn more about SonarQube for IDE and its Connected Mode features, [see Sonar's online documentation.](https://docs.sonarsource.com/sonarqube-for-intellij#connected-mode)
+Topics: SonarQube for IDE installation; Connected Mode; Project binding and sharing
+Tags: SonarQube IDE, Best Practices, Video
+
+## [Setting up SonarQube for IDE in Connected Mode with VS Code](https://www.sonarsource.com/learn/course/sonarqube-for-ide/eeeb80b2-b142-4475-8804-48a553bd2b45/setting-up-sonarqube-for-ide-in-connected-mode-with-vs-code)
+Summary: This course outlines the process for setting up SonarQube for IDE within VS Code. To learn more about SonarQube for IDE and its Connected Mode features, [see Sonar's online documentation.](https://docs.sonarsource.com/sonarqube-for-visual-studio)
+Topics: SonarQube for IDE installation; Connected Mode; Project binding and sharing
+Tags: SonarQube IDE, Best Practices, Video
+
+## [Setting up SSO for SonarQube Cloud using Entra ID](https://www.sonarsource.com/learn/course/sonarqube-cloud/8096c134-d770-46c6-8dea-4f692e88e4e3/setting-up-sso-for-sonarqube-cloud-using-entra-id)
+Summary: This course guides you through setting up SAML single sign-on (SSO) for SonarQube Cloud using Microsoft Entra ID. This integration allows your users to sign in with their Entra ID credentials and makes SonarQube Cloud authentication easier and more secure.
+Topics: Benefits of Entra ID authentication for SonarQube Cloud; Registering an Entra ID application for SonarQube Cloud; Configuring Entra ID SAML settings; Setting up attribute mappings between Entra ID and SonarQube Cloud; Assigning groups in Entra ID; Testing the connection; Adding groups to SonarQube Cloud; Verifying new single sign-on; Resources and best practices
+Tags: Authorization, Onboarding, Intermediate, Authentication, Integration
+
+## [Setting up SSO for SonarQube Cloud using Okta](https://www.sonarsource.com/learn/course/sonarqube-cloud/ed8dcb95-69ec-4f65-94fb-9dbd650ea37c/setting-up-sso-for-sonarqube-cloud-using-okta)
+Summary: This course guides you through the steps for setting up single sign-on (SSO) for SonarQube Cloud with Okta, allowing users to sign in easily with their Okta credentials while enhancing security and streamlining access.
+Topics: Benefits of Okta authentication for SonarQube Cloud; Creating an Okta application for SonarQube Cloud; Configuring SAML settings in Okta; Setting up attribute mappings; Assigning groups in Okta; Testing the connection; Adding groups to SonarQube Cloud; Verifying new single sign-on; Resources and best practices
+Tags: Authorization, Intermediate, Integration
+
+## [SonarQube analysis: From local scans to CI/CD automation](https://www.sonarsource.com/learn/course/core-concepts/f16bd24c-2a61-490d-9040-0e90039d14c0/sonarqube-analysis-from-local-scans-to-ci-cd-automation)
+Summary: This course provides an overview of the SonarQube analysis workflow, from local scanner execution to fully automated CI/CD pipeline integrations. This course prepares you to maintain code quality and security at scale by implementing industry-standard static code analysis practices.
+Topics: Fundamentals of static code analysis and automated code review; The five-step logical flow of a SonarQube analysis execution; Installation and configuration of SonarScanner CLI for Windows, Linux, and macOS; Project configuration using the `sonar-project.properties` file; Management of analysis parameters and hierarchy across Global, Project, and Scanner levels; Definition of analysis scope using inclusion and exclusion glob patterns; Verification techniques for analysis results using debug logs and the SonarScanner Context; Integration of SonarScanner into CI/CD platforms, including Azure DevOps, Bitbucket, GitHub Actions, and GitLab
+Tags: Onboarding, Beginner
+
+## [Understanding New Code in SonarQube Cloud](https://www.sonarsource.com/learn/course/core-concepts/55232864-82d1-42a0-8ad3-2b5fa94efa3b/understanding-new-code-in-sonarqube-cloud)
+Summary: Learn how to focus on new code to maintain high standards for your code without being overwhelmed by technical debt. This course shows you how to configure new code periods in SonarQube Cloud to make sure every addition to your codebase is reliable and secure.
+Topics: Importance of focus on new code; Organization vs. project-level settings; New code impact on quality gates
+Tags: Onboarding, SonarQube Cloud, Beginner
+
+## [Understanding New Code in SonarQube Server](https://www.sonarsource.com/learn/course/core-concepts/d24247c0-31b7-42dc-8ff7-9e12d9fd5608/understanding-new-code-in-sonarqube-server)
+Summary: This course guides you through the strategic importance of the "New Code" period in SonarQube Server and teaches you how to configure it to maintain integrated code quality and security. You will learn how to focus your development efforts on recent changes rather than being overwhelmed by legacy technical debt.
+Topics: The logic behind isolating recent changes to build a sustainable development process; Methods for identifying new lines using SCM metadata and analysis dates; New Code definition options including Previous version, Number of days, Reference branch, and Specific analysis; Hierarchy and precedence of settings across global, project, and branch levels; Best practices for baseline creation and quality gate behavior
+Tags: SonarQube Server, Onboarding, Beginner
+
+## [Understanding project metrics in SonarQube Cloud](https://www.sonarsource.com/learn/course/core-concepts/b1bdd5bf-a4b7-4fc0-910b-7091a8cca67e/understanding-project-metrics-in-sonarqube-cloud)
+Summary: This course provides a high-level overview of the key metrics in a SonarQube Cloud code analysis report. You'll learn how to interpret your project scan results so you can continuously improve the quality and security of your code.
+Topics: Issues: Security, Reliability, and Maintainability; Issue ratings; Code coverage; Dependency risks; Duplications; Quality gates
+Tags: Onboarding, SonarQube Cloud, Beginner, Video
+
+## [Understanding project metrics in SonarQube Server](https://www.sonarsource.com/learn/course/core-concepts/3a1c4581-9a8c-4c74-8c5d-0ced314223ad/understanding-project-metrics-in-sonarqube-server)
+Summary: This course provides a high-level overview of the key metrics in a SonarQube Server code analysis report. You'll learn how to interpret your project scan results so you can continuously improve the quality and security of your code.
+Topics: Issues: Security, Reliability, and Maintainability; Issue ratings; Code coverage; Dependency risks; Duplications; Quality gates
+Tags: SonarQube Server, Onboarding, Beginner, Video
+
+## [Understanding token types in SonarQube Server](https://www.sonarsource.com/learn/course/sonarqube-server/4be9d294-8d4a-4b6e-93b0-1f0bdd7d2dd9/understanding-token-types-in-sonarqube-server)
+Summary: This course explains the different types of tokens in SonarQube and how they're used for authentication and automation. You'll learn how these secure, string-based credentials function as digital keys for various SonarQube interactions, including running analyses and using Web API.
+Topics: Definition and function of SonarQube tokens; Security best practices for tokens
+Tags: Onboarding, Beginner, Video
+
+## [What's the difference between Security Hotspots and Security Issues?](https://www.sonarsource.com/learn/course/core-concepts/74553ed9-4228-4c54-8cb1-0a0f8653b866/what-s-the-difference-between-security-hotspots-and-security-issues)
+Summary: This course explains the fundamental differences between Security Hotspots and Security Issues in SonarQube, and describes the options to address and remediate each type of security risk.
+Topics: Reviewing Security Hotspots and Security Issues; Assessing and remediating security risks in code; Using AI to automatically generate code fixes
+Tags: Onboarding, Beginner, Video
