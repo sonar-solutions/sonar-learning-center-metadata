@@ -1,4 +1,4 @@
-# Sonar Learn — Courses
+# Sonar Learning Center — Courses
 
 > Public catalog of Sonar courses available on sonarsource.com/learn.
 
