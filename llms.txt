@@ -267,6 +267,11 @@ Summary: This course provides an overview of the concept of *shift left* and how
 Topics: Principle of shift left; History of shift left; SonarQube for IDE; Connected Mode
 Tags: Onboarding, Beginner
 
+## [Introduction to SonarQube MCP Server](https://www.sonarsource.com/learn/course/agentic-development/1fcc2b0e-b768-421e-bdbb-acc3c31990c1/introduction-to-sonarqube-mcp-server)
+Summary: This course introduces the SonarQube MCP Server and explains how it connects your AI coding tools to SonarQube code quality and security data. You'll learn what the Model Context Protocol is, how the SonarQube MCP Server can extend your AI coding capabilities, and the available hosting options.
+Topics: SonarQube MCP Server; AI tools; MCP Server protocol; MCP Server hosting methods
+Tags: SonarQube MCP Server, Beginner, Integration
+
 ## [Managing dependency risks with SCA](https://www.sonarsource.com/learn/course/advanced-security/0d978f0e-2f31-4fba-be8f-c8fca8fe44b4/managing-dependency-risks-with-sca)
 Summary: This course is designed to help you understand how to address dependency risks found in your code using SonarQube Advanced Security. It provides step-by-step guidance on how to view, assess, and remediate security vulnerabilities, malicious packages, and licensing risks detected in your code.
 Topics: Viewing and filtering dependency risks; Assessing risk scores; Direct and transitive dependencies; Maintainer insights; Using SonarQube for IDE; Leveraging SBOMs; Dependency risk reports
