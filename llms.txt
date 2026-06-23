@@ -342,6 +342,11 @@ Summary: This course provides an overview of the SonarQube analysis workflow, fr
 Topics: Fundamentals of static code analysis and automated code review; The five-step logical flow of a SonarQube analysis execution; Installation and configuration of SonarScanner CLI for Windows, Linux, and macOS; Project configuration using the `sonar-project.properties` file; Management of analysis parameters and hierarchy across Global, Project, and Scanner levels; Definition of analysis scope using inclusion and exclusion glob patterns; Verification techniques for analysis results using debug logs and the SonarScanner Context; Integration of SonarScanner into CI/CD platforms, including Azure DevOps, Bitbucket, GitHub Actions, and GitLab
 Tags: Onboarding, Beginner
 
+## [Understanding issues in SonarQube](https://www.sonarsource.com/learn/course/core-concepts/1b10ff3c-508a-46e6-8471-edf459433fe6/understanding-issues-in-sonarqube)
+Summary: This course helps you understand the concept of issues in SonarQube, and demonstrates how you can navigate issues and the information found within each issue card.
+Topics: Definition of issues; Navigating issues; Issue details
+Tags: Onboarding, SonarQube Cloud, Beginner, Video
+
 ## [Understanding New Code in SonarQube Cloud](https://www.sonarsource.com/learn/course/core-concepts/55232864-82d1-42a0-8ad3-2b5fa94efa3b/understanding-new-code-in-sonarqube-cloud)
 Summary: Learn how to focus on new code to maintain high standards for your code without being overwhelmed by technical debt. This course shows you how to configure new code periods in SonarQube Cloud to make sure every addition to your codebase is reliable and secure.
 Topics: Importance of focus on new code; Organization vs. project-level settings; New code impact on quality gates
