@@ -182,6 +182,11 @@ Summary: This course is designed to help you quickly get started using your Sona
 Topics: SonarQube Server; SonarQube Cloud; SonarQube Advanced Security; SonarQube for IDE; SonarQube MCP Server; Sonar Learning Center; Sonar Documentation; Sonar Community; Sonar Help Center; Sonar LTA Update Hub
 Tags: Onboarding, Beginner
 
+## [Gitar setup essentials](https://www.sonarsource.com/learn/course/gitar/1dc67583-c7cd-4bc4-83da-14080b308a2c/gitar-setup-essentials)
+Summary: In this course, you'll learn how to set up Gitar with your DevOps account and organization, confirm Gitar is live, and choose an automation level that fits your team.
+Topics: Gitar setup; AI code review; Automating PR reviews
+Tags: Onboarding, Beginner
+
 ## [How does SCA work in SonarQube Advanced Security?](https://www.sonarsource.com/learn/course/advanced-security/58f074f4-e16e-4fda-9465-8f6132a9d493/how-does-sca-work-in-sonarqube-advanced-security)
 Summary: This course helps software developers and engineering leaders understand how Software Composition Analysis (SCA) mitigates and remedies dependency risks introduced by third-party open-source software. This course also includes a product walkthrough that highlights key SCA features in SonarQube Advanced Security.
 Topics: Fundamental concepts of SCA; How SCA addresses developer pain points; How SCA works in SonarQube Advanced Security; How to get started with SCA in SonarQube
@@ -256,6 +261,11 @@ Tags: Onboarding, Beginner, Advanced Security
 Summary: This course provides an overview of SonarQube Server's authentication and authorization concepts. Understanding these concepts is crucial for protecting code by controlling access, tracking user activity, and securely integrating SonarQube Server with other tools. This course covers the different authentication methods supported by SonarQube Server and how authorization works in the platform.
 Topics: Fundamentals of authentication and authorization; Authentication methods supported by SonarQube Server; How authorization works in SonarQube Server; Resources and best practices
 Tags: Authorization, Onboarding, Intermediate, Authentication, Integration
+
+## [Introduction to Gitar](https://www.sonarsource.com/learn/course/gitar/afa2915d-f932-4653-8be5-9a5b0be6f5a0/introduction-to-gitar)
+Summary: This video explains how the AI code review tool Gitar works to automatically review PRs, analyze CI failures, and get your code to green so you can merge and ship more code, faster.
+Topics: Overview of Gitar; AI code review; Automating PR reviews
+Tags: Onboarding, Beginner, Video
 
 ## [Introduction to rules, quality profiles, and quality gates in SonarQube](https://www.sonarsource.com/learn/course/core-concepts/4ce5a772-5253-41dd-b521-8f7c72a7c6dd/introduction-to-rules-quality-profiles-and-quality-gates-in-sonarqube)
 Summary: This course provides an overview of how SonarQube rules, quality profiles, and quality gates work together to enforce your code quality and security standards. This course also explores the various types of conditions and metrics used in quality gates to ensure only high-quality, secure code enters your development pipeline.
