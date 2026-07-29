@@ -32,6 +32,11 @@ Summary: This course outlines best practices for shifting left by using SonarQub
 Topics: Principle of shift left; Connected Mode; Best practices for configuring SonarQube for IDE
 Tags: SonarQube IDE, Best Practices, Video
 
+## [Better together: Gitar and SonarQube](https://www.sonarsource.com/learn/course/gitar/97337f94-6bc2-4bb4-8a29-930d5b53b1b5/better-together-gitar-and-sonarqube)
+Summary: This course explains why SonarQube's rule-based analysis and Gitar's context-aware review work together as complementary layers of code verification, rather than one replacing the other. Through a worked example, it shows how Gitar catches intent-based flaws that pass SonarQube's checks, then drafts and verifies a fix — closing the loop from detection to a merge-ready solution.
+Topics: SonarQube's deterministic and Gitar's non-deterministic analysis; Multi-layer verification; PR/MR workflows
+Tags: Onboarding, Beginner, Video
+
 ## [Configure a GitHub App for SonarQube Server](https://www.sonarsource.com/learn/course/sonarqube-server/58844141-6a47-4fba-b219-d88d7054a045/configure-a-github-app-for-sonarqube-server)
 Summary: This course will teach you how to integrate SonarQube Server with your GitHub workflow. You will learn how to configure a GitHub App for SonarQube Server, install the application, and configure the integration in SonarQube Server. This enables seamless integration with SonarQube Server to automate code quality and security checks.
 Topics: Adding and configuring a dedicated GitHub App; Install the GitHub App; Configure SonarQube Server to integrate with the GitHub App; Verify the integration; Create a project in SonarQube Server from a GitHub repository; Resources and best practices
