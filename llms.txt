@@ -187,6 +187,11 @@ Summary: This course is designed to help you quickly get started using your Sona
 Topics: SonarQube Server; SonarQube Cloud; SonarQube Advanced Security; SonarQube for IDE; SonarQube MCP Server; Sonar Learning Center; Sonar Documentation; Sonar Community; Sonar Help Center; Sonar LTA Update Hub
 Tags: Onboarding, Beginner
 
+## [Gitar automation: From suggested fixes to auto-merge](https://www.sonarsource.com/learn/course/gitar/0a5ed1fe-61b9-4896-85fb-459bf20bbc88/gitar-automation-from-suggested-fixes-to-auto-merge)
+Summary: This course walks you through the progressive path to automation in Gitar, and the guardrails that keep Gitar's agentic automation and approval within your control. You'll learn to set approval criteria, tie those criteria to merge-blocking thresholds, and decide exactly where to draw the line before Gitar can approve, commit, or merge a request without a manual review.
+Topics: Automating code reviews; Automating pull/merge requests
+Tags: Onboarding, Beginner, Best Practices
+
 ## [Gitar setup essentials](https://www.sonarsource.com/learn/course/gitar/1dc67583-c7cd-4bc4-83da-14080b308a2c/gitar-setup-essentials)
 Summary: In this course, you'll learn how to set up Gitar with your DevOps account and organization, confirm Gitar is live, and choose an automation level that fits your team.
 Topics: Gitar setup; AI code review; Automating PR reviews
