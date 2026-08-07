@@ -167,6 +167,11 @@ Summary: This course explains what a user token is and how to create one in Sona
 Topics: Purpose and function of SonarQube user tokens; Generating a user token through user account settings; Setting an expiration date for a user token; Securely saving user tokens; Generating user tokens as an administrator
 Tags: Onboarding, Beginner, Video
 
+## [Customizing Gitar: Repository rules and review instructions](https://www.sonarsource.com/learn/course/gitar/68cc3fd9-cf59-4ddd-98a6-5ceedafcd68d/customizing-gitar-repository-rules-and-review-instructions)
+Summary: This course teaches you how to customize Gitar's default review behavior to match your team's specific standards. You'll learn to write custom rules, enable predefined rules from the catalog, add project-specific review instructions, and troubleshoot your customizations.
+Topics: Custom rules; Custom review instructions
+Tags: Onboarding, Beginner, Best Practices
+
 ## [Defining and managing portfolios in SonarQube Cloud](https://www.sonarsource.com/learn/course/sonarqube-cloud/9e81f487-79ca-4836-9d5b-59a543243a71/defining-and-managing-portfolios-in-sonarqube-cloud)
 Summary: This course explains how to define and manage portfolios to gain visibility into your overall project portfolio health and code releasability. You'll learn how to navigate different portfolio views and how portfolio ratings and metrics are calculated.
 Topics: Creating and managing portfolios; Best practices for portfolio selection; Portfolio releasability and ratings; Portfolio views and reports; Portfolio dashboards
