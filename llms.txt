@@ -287,9 +287,9 @@ Summary: This course provides an overview of how SonarQube rules, quality profil
 Topics: Defining and enforcing code quality; How rules work in SonarQube; How quality gates work in SonarQube; How quality profiles work in SonarQube; Resources and best practices
 Tags: Onboarding, Beginner
 
-## [Introduction to Sonar Vortex](https://www.sonarsource.com/learn/course/gitar/38cbe38f-8033-40a9-aeba-06790b61beea/introduction-to-sonar-vortex)
-Summary: This course introduces Sonar Vortex, and explains how it integrates with SonarQube to guide your AI agent with project context and verify its output to produce clean, secure, high quality code, using fewer tokens.
-Topics: Overview of Sonar Vortex; Summary of context given to agents by Sonar Vortex; Summary of SonarQube analysis conducted by Sonar Vortex
+## [Introduction to Sonar Vortex](https://www.sonarsource.com/learn/course/sonar-vortex/38cbe38f-8033-40a9-aeba-06790b61beea/introduction-to-sonar-vortex)
+Summary: This course introduces Sonar Vortex and explains how it integrates with SonarQube to guide your AI agent with project context and verify its output. You'll learn how using Sonar Vortex helps you produce clean, secure, high-quality code, all while using fewer tokens.
+Topics: AI coding agents; Context augmentation; Algorithmic analysis; Code verification; Token usage; Shifting left
 Tags: Onboarding, Sonar Vortex, Beginner, Video
 
 ## [Introduction to SonarQube for IDE](https://www.sonarsource.com/learn/course/sonarqube-for-ide/fd73ccb2-f4c6-4d5d-816b-edec87873345/introduction-to-sonarqube-for-ide)
