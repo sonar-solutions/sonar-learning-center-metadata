@@ -397,6 +397,11 @@ Summary: This course provides a high-level overview of the key metrics in a Sona
 Topics: Issues: Security, Reliability, and Maintainability; Issue ratings; Code coverage; Dependency risks; Duplications; Quality gates
 Tags: SonarQube Server, Onboarding, Beginner, Video
 
+## [Understanding projects, organizations, and enterprises in SonarQube Cloud](https://www.sonarsource.com/learn/course/core-concepts/9b30b337-d51e-45c7-9eb2-a447ea3e9468/understanding-projects-organizations-and-enterprises-in-sonarqube-cloud)
+Summary: This course covers the administrative structure of SonarQube Cloud, focusing on projects, organizations, and enterprises. You'll learn how these three structures interact to support effective administration and code quality management.
+Topics: Projects; Organizations; Enterprises; User and group permissions; Enterprise governance; Portfolios; LOC allocation
+Tags: Onboarding, SonarQube Cloud, Beginner, Video
+
 ## [Understanding token types in SonarQube Server](https://www.sonarsource.com/learn/course/sonarqube-server/4be9d294-8d4a-4b6e-93b0-1f0bdd7d2dd9/understanding-token-types-in-sonarqube-server)
 Summary: This course explains the different types of tokens in SonarQube and how they're used for authentication and automation. You'll learn how these secure, string-based credentials function as digital keys for various SonarQube interactions, including running analyses and using Web API.
 Topics: Definition and function of SonarQube tokens; Security best practices for tokens
