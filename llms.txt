@@ -337,6 +337,11 @@ Summary: In this course, you'll learn how to implement a tiered quality gate fra
 Topics: Tiered quality gates; Quality gate thresholds; Change management
 Tags: Onboarding, Intermediate, Beginner, Best Practices
 
+## [Setting up Sonar Vortex](https://www.sonarsource.com/learn/course/sonar-vortex/dd57b886-10be-4be9-808d-89aea1254b39/setting-up-sonar-vortex)
+Summary: In this course, you'll set up Sonar Vortex for Claude Code using the SonarQube CLI, then connect it to SonarQube Cloud. This allows you to pull in your project's architecture and coding guidelines before generating code and verify that your code passes SonarQube analysis before you commit it.
+Topics: Sonar Vortex; Agent Centric Development Cycle (AC/DC); Context augmentation; Algorithmic analysis; SonarQube CLI
+Tags: Sonar Vortex, Beginner, Integration
+
 ## [Setting up SonarQube for IDE in Connected Mode with Cursor](https://www.sonarsource.com/learn/course/sonarqube-for-ide/ad2919d7-197f-4ad8-8605-7d8c10d4cd09/setting-up-sonarqube-for-ide-in-connected-mode-with-cursor)
 Summary: This course outlines the process for setting up SonarQube for IDE within Cursor. To learn more about SonarQube for IDE and its Connected Mode features, [see Sonar's online documentation.](https://docs.sonarsource.com/sonarqube-for-vs-code#connected-mode)
 Topics: SonarQube for IDE installation; Connected Mode; Project binding and sharing
