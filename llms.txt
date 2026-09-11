@@ -297,6 +297,11 @@ Summary: This course provides an overview of the concept of *shift left* and how
 Topics: Principle of shift left; History of shift left; SonarQube for IDE; Connected Mode
 Tags: Onboarding, Beginner
 
+## [Introduction to SonarQube Hunter Agent](https://www.sonarsource.com/learn/course/sonarqube-hunter-agent/4ae2f0b4-5cf5-4ee4-8ae7-10867e2ee320/introduction-to-sonarqube-hunter-agent)
+Summary: In this course, you'll learn how SonarQube Hunter Agent detects intent-based security flaws that traditional static analysis can't catch, and how its findings fit into your existing SonarQube workflow.
+Topics: SonarQube Hunter Agent; Intent-based vulnerability detection; Broken access control; Business-logic and authentication flaws
+Tags: SonarQube Hunter Agent, Onboarding, Beginner, Video
+
 ## [Introduction to SonarQube MCP Server](https://www.sonarsource.com/learn/course/agentic-development/1fcc2b0e-b768-421e-bdbb-acc3c31990c1/introduction-to-sonarqube-mcp-server)
 Summary: This course introduces the SonarQube MCP Server and explains how it connects your AI coding tools to SonarQube code quality and security data. You'll learn what the Model Context Protocol is, how the SonarQube MCP Server can extend your AI coding capabilities, and the available hosting options.
 Topics: SonarQube MCP Server; AI tools; MCP Server protocol; MCP Server hosting methods
