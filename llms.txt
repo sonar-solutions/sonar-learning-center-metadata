@@ -307,6 +307,11 @@ Summary: This course introduces the SonarQube MCP Server and explains how it con
 Topics: SonarQube MCP Server; AI tools; MCP Server protocol; MCP Server hosting methods
 Tags: SonarQube MCP Server, Beginner, Integration
 
+## [Introduction to SonarQube Remediation Agent](https://www.sonarsource.com/learn/course/sonarqube-remediation-agent/d26ed1eb-dc6a-4349-b47b-a01cb29e5afd/introduction-to-sonarqube-remediation-agent)
+Summary: In this course, you'll learn how SonarQube Remediation Agent automatically fixes issues flagged by SonarQube, the three ways to trigger it, and how every proposed fix is verified before it reaches your review queue.
+Topics: SonarQube Remediation Agent; Automated and manual backlog remediation; Pull request remediation; Fix verification; LLM provider configuration
+Tags: Onboarding, Beginner, Video, SonarQube Remediation Agent
+
 ## [Managing dependency risks with SCA](https://www.sonarsource.com/learn/course/advanced-security/0d978f0e-2f31-4fba-be8f-c8fca8fe44b4/managing-dependency-risks-with-sca)
 Summary: This course is designed to help you understand how to address dependency risks found in your code using SonarQube Advanced Security. It provides step-by-step guidance on how to view, assess, and remediate security vulnerabilities, malicious packages, and licensing risks detected in your code.
 Topics: Viewing and filtering dependency risks; Assessing risk scores; Direct and transitive dependencies; Maintainer insights; Using SonarQube for IDE; Leveraging SBOMs; Dependency risk reports
