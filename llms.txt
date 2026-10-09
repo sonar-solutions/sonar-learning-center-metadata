@@ -192,6 +192,11 @@ Summary: This course is designed to help you quickly get started using your Sona
 Topics: SonarQube Server; SonarQube Cloud; SonarQube Advanced Security; SonarQube for IDE; SonarQube MCP Server; Sonar Learning Center; Sonar Documentation; Sonar Community; Sonar Help Center; Sonar LTA Update Hub
 Tags: Onboarding, Beginner
 
+## [Getting Started with SonarQube Remediation Agent](https://www.sonarsource.com/learn/course/sonarqube-remediation-agent/bbbd0968-a55f-4274-9f41-14611e23dcf2/getting-started-with-sonarqube-remediation-agent)
+Summary: In this course, you'll learn how to set up SonarQube Remediation Agent in SonarQube Cloud so it can generate, verify, and deliver fix suggestions as pull requests. You'll connect your DevOps platform, add an LLM provider key, enable remediation modes, and verify your setup.
+Topics: Remediation Agent features; LLM provider keys; DevOps platform connection; Remediation modes; Pull request review; Troubleshooting; Best practices
+Tags: Beginner, SonarQube Remediation Agent, Integration
+
 ## [Gitar automation: From suggested fixes to auto-merge](https://www.sonarsource.com/learn/course/gitar/0a5ed1fe-61b9-4896-85fb-459bf20bbc88/gitar-automation-from-suggested-fixes-to-auto-merge)
 Summary: This course walks you through the progressive path to automation in Gitar, and the guardrails that keep Gitar's agentic automation and approval within your control. You'll learn to set approval criteria, tie those criteria to merge-blocking thresholds, and decide exactly where to draw the line before Gitar can approve, commit, or merge a request without a manual review.
 Topics: Automating code reviews; Automating pull/merge requests
@@ -346,6 +351,11 @@ Tags: Onboarding, Beginner, Webinar
 Summary: In this course, you'll learn how to implement a tiered quality gate framework to centralize and enforce code quality and security standards across your organization. This guide walks you through how to incrementally increase your quality standards, and provides effective change management tips.
 Topics: Tiered quality gates; Quality gate thresholds; Change management
 Tags: Onboarding, Intermediate, Beginner, Best Practices
+
+## [Security considerations: Connecting Azure DevOps with SonarQube Server](https://www.sonarsource.com/learn/course/sonarqube-server/49513df9-c01a-4684-992f-c85640299376/security-considerations-connecting-azure-devops-with-sonarqube-server)
+Summary: This course explains the security aspects of integrating SonarQube Server with Azure DevOps, including software components, network connectivity, tokens, authentication, and permissions. You'll learn best practices to keep your source code and communication secure.
+Topics: SonarQube Server and Azure DevOps; Azure DevOps PATs; SonarQube analysis tokens; Creating and rotating tokens; Securing access to tokens; User authentication methods; User permissions; Security best practices
+Tags: SonarQube Server, Intermediate, Azure DevOps
 
 ## [Setting up Sonar Vortex](https://www.sonarsource.com/learn/course/sonar-vortex/dd57b886-10be-4be9-808d-89aea1254b39/setting-up-sonar-vortex)
 Summary: In this course, you'll set up Sonar Vortex for Claude Code using the SonarQube CLI, then connect it to SonarQube Cloud. This allows you to pull in your project's architecture and coding guidelines before generating code and verify that your code passes SonarQube analysis before you commit it.
