@@ -192,6 +192,11 @@ Summary: This course is designed to help you quickly get started using your Sona
 Topics: SonarQube Server; SonarQube Cloud; SonarQube Advanced Security; SonarQube for IDE; SonarQube MCP Server; Sonar Learning Center; Sonar Documentation; Sonar Community; Sonar Help Center; Sonar LTA Update Hub
 Tags: Onboarding, Beginner
 
+## [Getting Started with SonarQube Hunter Agent](https://www.sonarsource.com/learn/course/sonarqube-hunter-agent/a9d587b1-4aaa-4f78-a40d-b28960951a47/getting-started-with-sonarqube-hunter-agent)
+Summary: In this course, you'll learn how to enable SonarQube Hunter Agent, an add-on to SonarQube Cloud, Enterprise plan, that uses intent-based analysis to find access-control, business-logic, authentication, and session-management vulnerabilities. You'll run your first scan, review the results, and set up scheduled scans.
+Topics: SonarQube Hunter Agent; Intent-based analysis; Scan units; Scan results; Scheduled scans; Best practices
+Tags: SonarQube Hunter Agent, Beginner, Integration
+
 ## [Getting Started with SonarQube Remediation Agent](https://www.sonarsource.com/learn/course/sonarqube-remediation-agent/bbbd0968-a55f-4274-9f41-14611e23dcf2/getting-started-with-sonarqube-remediation-agent)
 Summary: In this course, you'll learn how to set up SonarQube Remediation Agent in SonarQube Cloud so it can generate, verify, and deliver fix suggestions as pull requests. You'll connect your DevOps platform, add an LLM provider key, enable remediation modes, and verify your setup.
 Topics: Remediation Agent features; LLM provider keys; DevOps platform connection; Remediation modes; Pull request review; Troubleshooting; Best practices
