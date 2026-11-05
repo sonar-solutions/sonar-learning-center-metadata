@@ -2,6 +2,16 @@
 
 > Public catalog of Sonar courses available on sonarsource.com/learn.
 
+## [Activating your SonarQube Server license](https://www.sonarsource.com/learn/course/core-concepts/035a03e8-46b3-41e9-99b7-0f92c16fdc1b/activating-your-sonarqube-server-license)
+Summary: In this course, you'll learn how to activate your SonarQube Server license when your instance can connect to the internet, and how to confirm in the Sonar License Portal that the license is active.
+Topics: SonarQube Server license activation; License key; Sonar License Portal; Online and offline activation
+Tags: SonarQube Server, Onboarding, Beginner, Video
+
+## [Activating your SonarQube Server license in air-gapped environments](https://www.sonarsource.com/learn/course/core-concepts/6517b00f-c909-4415-b5f8-477ceab0db7d/activating-your-sonarqube-server-license-in-air-gapped-environments)
+Summary: In this course, you'll learn how to activate your SonarQube Server license when your instance is air-gapped and can't connect to the internet. You'll use offline activation to exchange a request file and a license file through the Sonar offline license activation portal.
+Topics: Offline license activation; Air-gapped SonarQube Server instances; Sonar License Portal license key; .req and .lic files; Sonar offline license activation portal
+Tags: SonarQube Server, Onboarding, Beginner, Video
+
 ## [Administering quality gates in SonarQube](https://www.sonarsource.com/learn/course/core-concepts/a0f784bb-0722-4c97-ac5f-9e250686014b/administering-quality-gates-in-sonarqube)
 Summary: This course explains how SonarQube quality gates help define your organization's coding and security standards, empowering teams to set and maintain consistent practices across all projects. You'll learn how to tailor these standards using custom quality gates to ensure consistent and secure code throughout your development work.
 Topics: Definition and purpose of SonarQube quality gates; The built-in *Sonar way* quality gate; Permissions required for quality gate administration; Methods for creating custom quality gates; Adding and modifying quality gate conditions; Best practices for managing quality gates
@@ -201,6 +211,11 @@ Tags: SonarQube Hunter Agent, Beginner, Integration
 Summary: In this course, you'll learn how to set up SonarQube Remediation Agent in SonarQube Cloud so it can generate, verify, and deliver fix suggestions as pull requests. You'll connect your DevOps platform, add an LLM provider key, enable remediation modes, and verify your setup.
 Topics: Remediation Agent features; LLM provider keys; DevOps platform connection; Remediation modes; Pull request review; Troubleshooting; Best practices
 Tags: Beginner, SonarQube Remediation Agent, Integration
+
+## [Getting started with the Sonar License Portal](https://www.sonarsource.com/learn/course/core-concepts/f5c3a629-79b8-4740-ac09-20e056a257fc/getting-started-with-the-sonar-license-portal)
+Summary: In this course, you'll learn how to set up your Sonar portal sign-in, log in to the Sonar License Portal for the first time, and view your SonarQube Server license details. You'll also learn how to assign license managers and how the license manager role differs from the SonarQube administrator role.
+Topics: Sonar License Portal; License manager and SonarQube administrator roles; Sonar sign-in; License keys and license details; Adding license managers
+Tags: Onboarding, Beginner, Video
 
 ## [Gitar automation: From suggested fixes to auto-merge](https://www.sonarsource.com/learn/course/gitar/0a5ed1fe-61b9-4896-85fb-459bf20bbc88/gitar-automation-from-suggested-fixes-to-auto-merge)
 Summary: This course walks you through the progressive path to automation in Gitar, and the guardrails that keep Gitar's agentic automation and approval within your control. You'll learn to set approval criteria, tie those criteria to merge-blocking thresholds, and decide exactly where to draw the line before Gitar can approve, commit, or merge a request without a manual review.
