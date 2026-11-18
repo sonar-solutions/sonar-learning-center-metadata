@@ -302,6 +302,11 @@ Summary: This course provides an overview of SonarQube Server's authentication a
 Topics: Fundamentals of authentication and authorization; Authentication methods supported by SonarQube Server; How authorization works in SonarQube Server; Resources and best practices
 Tags: Authorization, Onboarding, Intermediate, Authentication, Integration
 
+## [Introduction to container scanning](https://www.sonarsource.com/learn/course/advanced-security/b454e6b2-3554-4219-9c50-dc264afb55a4/introduction-to-container-scanning)
+Summary: In this course, you'll learn how SonarQube container scanning finds vulnerabilities and malicious packages in the container images you ship. You'll also learn how to run scans locally or in your CI/CD pipeline and manage findings in SonarQube Cloud.
+Topics: Container scanning in SonarQube Advanced Security; Vulnerabilities and malicious packages in container images; Running scans locally and in CI/CD pipelines; Continuous monitoring and findings in SonarQube Cloud
+Tags: Container scanning, Onboarding, Beginner, Video, Advanced Security
+
 ## [Introduction to Gitar](https://www.sonarsource.com/learn/course/gitar/afa2915d-f932-4653-8be5-9a5b0be6f5a0/introduction-to-gitar)
 Summary: This video explains how the AI code review tool Gitar works to automatically review PRs, analyze CI failures, and get your code to green so you can merge and ship more code, faster.
 Topics: Overview of Gitar; AI code review; Automating PR reviews
