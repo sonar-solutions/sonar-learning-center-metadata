@@ -202,6 +202,11 @@ Summary: This course is designed to help you quickly get started using your Sona
 Topics: SonarQube Server; SonarQube Cloud; SonarQube Advanced Security; SonarQube for IDE; SonarQube MCP Server; Sonar Learning Center; Sonar Documentation; Sonar Community; Sonar Help Center; Sonar LTA Update Hub
 Tags: Onboarding, Beginner
 
+## [Getting started with SonarQube container scanning](https://www.sonarsource.com/learn/course/advanced-security/9db639f2-6257-48c6-9800-67eadaf509e0/getting-started-with-sonarqube-container-scanning)
+Summary: Container scanning in SonarQube Cloud extends SonarQube Advanced Security to container images. It checks an image’s operating system packages, language runtimes, and libraries for known vulnerabilities and malicious packages. In this course, you’ll scan the public container image alpine:3.19. You’ll pull it into Docker and scan the local image, then scan the image from a saved tar file and from an Open Container Initiative (OCI) layout. Finally, you’ll run the same scan in a continuous integration (CI) pipeline.
+Topics: SonarQube container image scan; Local Docker image scan; tar file image scan; OCI layout image scan; Image scan in a CI pipeline
+Tags: Container scanning, Onboarding, SonarQube Cloud, Intermediate, Advanced Security
+
 ## [Getting Started with SonarQube Hunter Agent](https://www.sonarsource.com/learn/course/sonarqube-hunter-agent/a9d587b1-4aaa-4f78-a40d-b28960951a47/getting-started-with-sonarqube-hunter-agent)
 Summary: In this course, you'll learn how to enable SonarQube Hunter Agent, an add-on to SonarQube Cloud, Enterprise plan, that uses intent-based analysis to find access-control, business-logic, authentication, and session-management vulnerabilities. You'll run your first scan, review the results, and set up scheduled scans.
 Topics: SonarQube Hunter Agent; Intent-based analysis; Scan units; Scan results; Scheduled scans; Best practices
